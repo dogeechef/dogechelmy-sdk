@@ -15,7 +15,7 @@ git clone https://github.com/QuickSwap/QuickSwap-sdk.git
 Move into the quickswap-sdk working directory
 
 ```sh
-cd QuickSwap-sdk/
+cd dogechelmy-sdk/
 ```
 
 Install dependencies
