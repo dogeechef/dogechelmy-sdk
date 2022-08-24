@@ -1,4 +1,4 @@
-# QuickSwap SDK
+# DogeChelmy SDK
 
 This repository has been forked from [UniswapV2](https://github.com/Uniswap/uniswap-sdk)
 
